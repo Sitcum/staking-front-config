@@ -12,7 +12,8 @@
  "circulation": {
   "BSC":0,
   "ETH":0,
-  "polygon":0
+  "polygon":0,
+  "tfi":26242956
  },
  "time": "2021-12-30"
 }
