@@ -1,18 +1,21 @@
 {
  "poolIds": {
-  "BSC":[20000020000],
-  "ETH":[20000020000],
-  "polygon":[20000020000]
+  "BSC":[],
+  "ETH":[],
+  "polygon":[],
+  "AVAX":[]
  },
  "errorPoolIds": {
-  "BSC":[20000020000],
-  "ETH":[20000020000],
-  "polygon":[20000020000]
+  "BSC":[],
+  "ETH":[],
+  "polygon":[],
+  "AVAX":[]
  },
  "circulation": {
   "BSC":26242956,
   "ETH":26242956,
-  "polygon":26242956
+  "polygon":26242956,
+  "AVAX":26242956
  },
  "time": "2021-12-30"
 }
