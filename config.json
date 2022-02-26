@@ -6,7 +6,13 @@
   "AVAX":[]
  },
  "errorPoolIds": {
-  "BSC":[],
+  "BSC":[20000050000],
+  "ETH":[],
+  "polygon":[],
+  "AVAX":[]
+ },
+ "hiddenPoolIds": {
+  "BSC":[20000050000],
   "ETH":[],
   "polygon":[],
   "AVAX":[]
