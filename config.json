@@ -3,25 +3,45 @@
   "BSC":[],
   "ETH":[],
   "polygon":[],
-  "AVAX":[]
+  "AVAX":[],
+  "OEC": [],
+  "KCC": [],
+  "Fantom": [],
+  "HECO": [],
+  "GateChain": []
  },
  "errorPoolIds": {
-  "BSC":[20000050000],
+  "BSC":[],
   "ETH":[],
   "polygon":[],
-  "AVAX":[]
+  "AVAX":[],
+  "OEC": [],
+  "KCC": [],
+  "Fantom": [],
+  "HECO": [],
+  "GateChain": []
  },
  "hiddenPoolIds": {
   "BSC":[20000050000],
   "ETH":[],
   "polygon":[],
-  "AVAX":[]
+  "AVAX":[],
+  "OEC": [],
+  "KCC": [],
+  "Fantom": [],
+  "HECO": [],
+  "GateChain": []
  },
  "circulation": {
   "BSC":26242956,
   "ETH":26242956,
   "polygon":26242956,
-  "AVAX":26242956
+  "AVAX":26242956,
+  "OEC": 26242956,
+  "KCC": 26242956,
+  "Fantom": 26242956,
+  "HECO": 26242956,
+  "GateChain": 26242956
  },
- "time": "2021-12-30"
+ "time": "2022-03-10"
 }
