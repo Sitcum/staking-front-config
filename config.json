@@ -32,6 +32,17 @@
   "HECO": [],
   "GateChain": []
  },
+  "hiddenAprPoolIds": {
+  "BSC":[20000010012],
+  "ETH":[],
+  "polygon":[],
+  "AVAX":[],
+  "OEC": [],
+  "KCC": [],
+  "Fantom": [],
+  "HECO": [],
+  "GateChain": []
+ },
  "circulation": {
   "BSC":26242956,
   "ETH":26242956,
