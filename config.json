@@ -9,7 +9,6 @@
   "Fantom": [],
   "HECO": [],
   "GateChain": [],
-  "ETH": [],
   "ZetaChain": []
  },
  "errorPoolIds": {
@@ -22,7 +21,6 @@
   "Fantom": [],
   "HECO": [],
   "GateChain": [],
-  "ETH": [],
   "ZetaChain": []
  },
  "hiddenPoolIds": {
@@ -35,7 +33,6 @@
   "Fantom": [],
   "HECO": [],
   "GateChain": [],
-  "ETH": [],
   "ZetaChain": []
  },
   "hiddenAprPoolIds": {
@@ -48,7 +45,6 @@
   "Fantom": [],
   "HECO": [],
   "GateChain": [],
-  "ETH": [],
   "ZetaChain": []
  },
  "circulation": {
@@ -61,7 +57,6 @@
   "Fantom": 26242956,
   "HECO": 26242956,
   "GateChain": 26242956,
-  "ETH": 26242956,
   "ZetaChain": 26242956
  },
  "time": "2023-10-08"
