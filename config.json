@@ -9,7 +9,7 @@
   "Fantom": [],
   "HECO": [],
   "GateChain": [],
-  "ZetaChain": []
+  "ZetaChainTestnet": []
  },
  "errorPoolIds": {
   "BSC":[],
@@ -21,7 +21,7 @@
   "Fantom": [],
   "HECO": [],
   "GateChain": [],
-  "ZetaChain": []
+  "ZetaChainTestnet": []
  },
  "hiddenPoolIds": {
   "BSC":[20000050000],
@@ -33,7 +33,7 @@
   "Fantom": [],
   "HECO": [],
   "GateChain": [],
-  "ZetaChain": []
+  "ZetaChainTestnet": []
  },
   "hiddenAprPoolIds": {
   "BSC":[20000160000],
@@ -45,7 +45,7 @@
   "Fantom": [],
   "HECO": [],
   "GateChain": [],
-  "ZetaChain": []
+  "ZetaChainTestnet": []
  },
  "circulation": {
   "BSC":26242956,
@@ -57,7 +57,7 @@
   "Fantom": 26242956,
   "HECO": 26242956,
   "GateChain": 26242956,
-  "ZetaChain": 26242956
+  "ZetaChainTestnet": 26242956
  },
  "time": "2023-10-08"
 }
